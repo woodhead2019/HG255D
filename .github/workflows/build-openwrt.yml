@@ -23,7 +23,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/woodhead2019/openwrt
   REPO_BRANCH: master
   CONFIG_FILE: .config
   DIY_SH: diy.sh
