@@ -1,9 +1,8 @@
 #=================================================
-# https://github.com/P3TERX/Actions-OpenWrt
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: P3TERX
-# Blog: https://p3terx.com
+# Thanks for P3TERX
+# https://github.com/P3TERX/Actions-OpenWrt
 #=================================================
 
 name: Build OpenWrt
